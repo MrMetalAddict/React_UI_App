@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.Button
+{
+  background-color: #282c34;
+  color: rgb(242, 232, 232);
+  padding: 10px 20px;
+  text-align: center;
+  margin-top: 20px;
+}
+.ShoppingList
+{
+  text-align: justify;
+}
